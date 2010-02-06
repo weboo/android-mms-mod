@@ -307,4 +307,12 @@
     <string name="storage_limits_setting" msgid="4952781049308537373">"制限を設定"</string>
     <string name="storage_limits_setting_dismiss" msgid="1433841310158458034">"制限しない"</string>
     <string name="too_many_unsent_mms" msgid="8005932837414848242">"今すぐメッセージを送信することはできません。未送信のマルチメディアメッセージが多すぎます。"</string>
+
+    <!-- Extra settings -->
+    <string name="pref_extra_settings">その他設定</string>
+
+    <string name="pref_key_mms_user_agent_default">Android-Mms/2.0</string>
+    <string name="pref_title_mms_user_agent">User-Agentを変更</string>
+    <string name="pref_summary_mms_user_agent">MMS送受信時のUAを変更します。</string>
+    <string name="pref_mms_user_agent_custom_set">次の値に設定されました。\n</string>
 </resources>
