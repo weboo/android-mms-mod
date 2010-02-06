@@ -69,7 +69,8 @@
     <item>BlackBerry 8800</item>
     <item>Sony Ericsson W800i</item>
     <item>SoftBank X01T</item>
-    <item>V702NK</item>
+    <item>SoftBank 708SC</item>
+    <item>Vodafone V702NK</item>
     <item>@string/pref_mms_custom_option</item>
   </string-array>
 
@@ -81,6 +82,7 @@
     <item>SonyEricssonW800i/R1L</item>
     <item>SoftBank/1.0/X01T/SCJ001</item>
     <item>Vodafone/1.0/V702NK/NKJ001 Series60/2.6 Nokia6630/2.39.148 Profile/MIDP-2.0Configutation/CLDC-1.1</item>
+    <item>SoftBank/1.0/708SC/SCJ001 Browser/NetFront/3.3 Profile/MIDP-2.0 Configuration/CLDC-1.1</item>
     <item>custom</item>
   </string-array>
 </resources>
